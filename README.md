@@ -1,7 +1,7 @@
 # domoticz-tile-mod
 lua example to modify all parts of a custom device
  
-As text tiles are limited in their presentations options.  
+As text tiles are limited in their presentation options.  
 I decided next best would be to modify a custom sensor.  
 As examples are scarce I share my snippet.  
 
