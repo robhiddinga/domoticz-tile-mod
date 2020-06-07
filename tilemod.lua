@@ -11,7 +11,9 @@ afvaldevice_id    = 874
 
 afvalstroom       = {'een', 'Grijs','Papier','vier','Groen','Plastic'}
 afvalstroom_icons = {'0', '131','132','133','134','0'}
+--replace the numbers by the numbers of your own custom icons (they start at 100)
 devicename_1      = 'Volgende%20afval%20is%20'
+--device name can not contain space, so using %20 (which is space)
 
 description       = '10 jun groen * 11 jun grijs * 12 juni gft'
 firstday          = '10'
