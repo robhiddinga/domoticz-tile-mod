@@ -11,4 +11,4 @@ Modify the lines as indicated in the script and try this snippet.
 Beware the JSON calls are very sensitive.  
 First try the example before you are going to edit.  
 
-Do not forget to refresh your page as not all is updates dynamicly.  
+Do not forget to refresh your page as not all is updated dynamicly.  
