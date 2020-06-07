@@ -8,5 +8,5 @@ As examples are scarce I share my snippet.
 First create a dummy custom sensor and remember its idx.  
 Modify the three lines and try this snippet.  
 
-Beware the JSON calls are very sensitive
+Beware the JSON calls are very sensitive.  
 First try the example before you are going to edit
