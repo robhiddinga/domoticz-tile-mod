@@ -10,7 +10,7 @@ afvaldevice_id    = 874
 --Replace above by your own settings
 
 afvalstroom       = {'een', 'Grijs','Papier','vier','Groen','Plastic'}
-afvalstroom_icons = {'0', '131','132','133','134','0'}
+afvalstroom_icons = {'0', '131','132','0','133','134'}
 --replace the numbers by the numbers of your own custom icons (they start at 100)
 devicename_1      = 'Volgende%20afval%20is%20'
 --device name can not contain space, so using %20 (which is space)
